@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Aren Boba Freshmilk",
+    "price": "15k",
+    "image": "Aren Boba Milk Tea"
+  },
+  {
+    "title": "Coconut Green Cake",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Taro",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Lava Milo",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Avocado",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Milo Greentea",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Oreo",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Redvelvet",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Thaitea",
+    "price": "-",
+    "type": [
+      {
+        "value": "Small",
+        "price": "5k"
+      },
+      {
+        "value": "Large",
+        "price": "10k"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "title": "Greentea",
+    "price": "-",
+    "type": [
+      {
+        "value": "Small",
+        "price": "5k"
+      },
+      {
+        "value": "Large",
+        "price": "10k"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "title": "Lemon Tea",
+    "price": "-",
+    "type": [
+      {
+        "value": "Small",
+        "price": "5k"
+      },
+      {
+        "value": "Large",
+        "price": "10k"
+      }
+    ],
+    "image": ""
+  },
+  {
+    "title": "Teh Tarik",
+    "price": "15k",
+    "image": ""
+  },
+  {
+    "title": "Cappucino",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Caramel Machiato",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Hazelnut",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Caramel",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Tiramisu",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Royal",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Dark",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Choco Black Forest",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "StrawBery",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Bubble Gum",
+    "price": "12k",
+    "image": ""
+  },
+  {
+    "title": "Mangga",
+    "price": "12k",
+    "image": ""
+  }
+]
